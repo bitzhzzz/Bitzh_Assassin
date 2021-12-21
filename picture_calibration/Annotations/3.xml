@@ -1,0 +1,26 @@
+<annotation>
+	<folder>photo</folder>
+	<filename>3.jpg</filename>
+	<path>C:\Users\Administrator.DESKTOP-GQMDGVS\Desktop\图片标定格式\photo\3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>paper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>122</xmin>
+			<ymin>311</ymin>
+			<xmax>896</xmax>
+			<ymax>755</ymax>
+		</bndbox>
+	</object>
+</annotation>
