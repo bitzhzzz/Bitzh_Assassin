@@ -1,0 +1,3 @@
+C:\Users\Administrator.DESKTOP-GQMDGVS\Desktop\zzz的深度学习教程\图片标定格式/VOC_storage/VOC2021/JPEGImages/1.jpg 229,319,781,937,0
+C:\Users\Administrator.DESKTOP-GQMDGVS\Desktop\zzz的深度学习教程\图片标定格式/VOC_storage/VOC2021/JPEGImages/2.jpg 9,82,238,248,0
+C:\Users\Administrator.DESKTOP-GQMDGVS\Desktop\zzz的深度学习教程\图片标定格式/VOC_storage/VOC2021/JPEGImages/3.jpg 122,311,896,755,0
