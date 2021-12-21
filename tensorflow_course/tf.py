@@ -2,6 +2,10 @@ import matplotlib.pyplot as plt
 import tensorflow as tf
 import numpy as np
 
+#############################
+#该示例为创建200个（-0.5，0.5）的点集x，点集x加噪声获得点集y，点集x通过深度学习网络来拟合点集y的过程
+#############################
+
 #创建-0.5到0.5的200个点
 x_data = np.linspace(-0.5, 0.5, 200)[:,np.newaxis]
 #噪声点
